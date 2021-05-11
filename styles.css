@@ -36,3 +36,7 @@ body{
 .controls .left i{
     padding-right: 5px;
 }
+.image {
+    object-fit: contain;
+    width: 600px;
+}
